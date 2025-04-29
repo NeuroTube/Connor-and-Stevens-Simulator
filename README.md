@@ -1,11 +1,12 @@
-# Connor-and-Stevens-Simulator
+# Hodgkin-Huxley and Connor-Stevens model
+
 NeuroTube Simulation Package - Version 1.0
 
 Description:
 The NeuroTube Simulation Package provides a simplified implementation of the Connor-Stevens model of neuronal dynamics. It incorporates the key ion currents involved in action potential generation, focusing on Leak, Na⁺, K⁺, A-type K⁺, and T-type Ca²⁺ channels. This model does not include dynamic conductance changes and operates with static ion channel parameters, as described in Dayan & Abbott, Chapter 6.
 
 Key Features:
-•	Simulate action potentials based on the Connor-Stevens model.
+•	Simulate action potentials based on the Hodgkin-Huxley and Connor-Stevens models.
 •	Model components include Leak, Na⁺, K⁺, A-type K⁺, and T-type Ca²⁺ currents.
 •	Simple interface to input initial conditions (initial voltage, injected current, etc.) and total simulation time.
 •	Visualize the simulation results in real time with interactive plotting.
